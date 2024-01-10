@@ -1,0 +1,2 @@
+Hello There are two files in this my repo.I created docker image named esra/ngixn-website by using Dockerfile and push to dockerhub.I create a instance , install docker on this instance and then create container with esra/nginx-website image.This docker is for simple nginx website and publis 80 port.This is only demo and pracrice aim.
+https://hub.docker.com/repository/docker/esra/nginx-website/general
